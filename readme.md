@@ -3,7 +3,7 @@
 
 ## Introduction
 
-<p> Visit Falcarragh is a website that shares information about the beautiful village of Falcarragh in County Donegal. The website is targeting regular visitors of the area or tourists that are considering to visit the area and looking for more information. </p>
+<p> Visit Falcarragh is a website that shares information about the beautiful village of Falcarragh in County Donegal. The website is targeting regular visitors of the area or tourists that are considering to visit the area and looking for more information.</p>
 
 ##Features
 
@@ -13,3 +13,4 @@
 <li>Landing Page Image</li>
 <li>Video about the village</li>
 <li>Contact Form</li>
+<li>Gallery</li>
