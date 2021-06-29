@@ -9,4 +9,31 @@
 body {
     font-family: Benne, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
+    color: #000034
+}
+
+/* Hero Image */
+
+header {
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+#hero-image {
+   
+    background: url(../css/images/home_hero.jpg) no-repeat center center;
+    position:relative; 
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+#hero-text {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #000034;
 }
